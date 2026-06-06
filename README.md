@@ -14,6 +14,7 @@ Enhance your Shopify store with a fully customizable, high-performance Product C
 ---
 
 ## Live Preview & Look
+
 Here is a preview of how sleek the user interface looks:
 ---<img width="1080" height="1392" alt="1007538515" src="https://github.com/user-attachments/assets/4fac6afb-5e5b-49b1-a208-a2805b3db52d" />
 <img width="1080" height="1382" alt="1007538517" src="https://github.com/user-attachments/assets/2699d322-beda-44fb-b3a8-ebbd37e9887a" />
